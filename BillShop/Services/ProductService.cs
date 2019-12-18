@@ -12,8 +12,8 @@ namespace BillShop.Services
             this.FilePath = filePath;
             this.Product = new CsvProductRepository();
         }
-
-
+        
+        
         public bool ProductExist(int barcode)
         {
             return Product.GetByBarcode(barcode, FilePath) != null;
