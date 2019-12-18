@@ -1,0 +1,11 @@
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.exe
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.deps.json
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.runtimeconfig.json
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.runtimeconfig.dev.json
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.dll
+C:\Users\48795\RiderProjects\BillShop\BillShop\bin\Debug\netcoreapp3.0\BillShop.pdb
+C:\Users\48795\RiderProjects\BillShop\BillShop\obj\Debug\netcoreapp3.0\BillShop.csprojAssemblyReference.cache
+C:\Users\48795\RiderProjects\BillShop\BillShop\obj\Debug\netcoreapp3.0\BillShop.AssemblyInfoInputs.cache
+C:\Users\48795\RiderProjects\BillShop\BillShop\obj\Debug\netcoreapp3.0\BillShop.AssemblyInfo.cs
+C:\Users\48795\RiderProjects\BillShop\BillShop\obj\Debug\netcoreapp3.0\BillShop.dll
+C:\Users\48795\RiderProjects\BillShop\BillShop\obj\Debug\netcoreapp3.0\BillShop.pdb

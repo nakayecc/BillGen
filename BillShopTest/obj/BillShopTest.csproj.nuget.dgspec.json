@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShopTest\\BillShopTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShopTest\\BillShopTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShopTest\\BillShopTest.csproj",
+        "projectName": "BillShopTest",
+        "projectPath": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShopTest\\BillShopTest.csproj",
+        "packagesPath": "C:\\Users\\48795\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShopTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\48795\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\BillShop.csproj": {
+                "projectPath": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\BillShop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\BillShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\BillShop.csproj",
+        "projectName": "BillShop",
+        "projectPath": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\BillShop.csproj",
+        "packagesPath": "C:\\Users\\48795\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\48795\\RiderProjects\\BillShop\\BillShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\48795\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
